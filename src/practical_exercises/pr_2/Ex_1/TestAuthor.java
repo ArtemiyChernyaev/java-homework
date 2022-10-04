@@ -1,5 +1,4 @@
-package ex_1;
-
+package Ex_1;
 public class TestAuthor {
     public static void main(String[] args) {
         Author A1 = new Author("Artur Shelby", "barbos@mail.usa", 'm');

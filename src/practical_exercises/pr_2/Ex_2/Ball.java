@@ -1,4 +1,4 @@
-package ex_2;
+package Ex_2;
 
 public class Ball {
     private double x = 0.0;

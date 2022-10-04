@@ -1,8 +1,6 @@
-package practical_exercises.pr_1;
-
 import java.util.Scanner;
 
-public class ex_4 {
+public class Ex_4 {
     public static int max(int[] arr){
         int max = arr[0];
         int i = 0;

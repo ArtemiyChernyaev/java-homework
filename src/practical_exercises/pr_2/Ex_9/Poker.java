@@ -1,4 +1,4 @@
-package ex_9;
+package Ex_9;
 
 import java.util.Scanner;
 import java.util.Random;

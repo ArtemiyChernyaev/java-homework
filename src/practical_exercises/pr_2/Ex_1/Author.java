@@ -1,5 +1,4 @@
-package ex_1;
-
+package Ex_1;
 public class Author {
     private String name;
     private String email;

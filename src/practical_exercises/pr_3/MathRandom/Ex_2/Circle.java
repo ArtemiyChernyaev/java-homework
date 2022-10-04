@@ -1,4 +1,4 @@
-package ex_3;
+package Ex_2;
 
 public class Circle {
 
@@ -25,7 +25,7 @@ public class Circle {
         this.radius = radius;
     }
     public String toString() {
-        return "\nCentre x=" + this.centre.getX() +
+        return "Centre x=" + this.centre.getX() +
                 ", y=" + this.centre.getY() +
                 " Radius=" + this.radius;
     }

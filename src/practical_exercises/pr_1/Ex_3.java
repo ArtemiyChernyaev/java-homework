@@ -1,7 +1,6 @@
-package practical_exercises.pr_1;
 import java.util.Scanner;
 
-public class ex_3 {
+public class Ex_3 {
     public static int sum(int[] arr){
         int sum = 0;
 

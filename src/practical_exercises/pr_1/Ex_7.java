@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ex_7 {
+public class Ex_7 {
     public static void main(String[] args) {
         System.out.println("Enter number to factorization:");
         Scanner sc = new Scanner(System.in);

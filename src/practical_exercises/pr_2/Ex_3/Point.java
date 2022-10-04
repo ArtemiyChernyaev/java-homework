@@ -1,4 +1,4 @@
-package ex_3;
+package Ex_3;
 
 public class Point {
     private double x;
