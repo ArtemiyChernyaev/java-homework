@@ -8,8 +8,8 @@ public class DemoTest {
         Printable[] printables = {
                 new Magazine("Magazine1"),
                 new Magazine("Magazine2"),
-                new Book("Petr", "Book35"),
-                new Magazine("Magazine6")};
+                new Book("Ivan Ivanov", "Book35"),
+                new Magazine("Magazine3")};
 
         printMagazines(printables);
         System.out.println();
